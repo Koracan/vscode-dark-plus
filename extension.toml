@@ -1,7 +1,7 @@
-id = "vscode-dark-plus"
-name = "VSCode Dark Plus"
+id = "vscode-dark-plus-theme"
+name = "VS Code Dark+ Complete"
 version = "0.0.1"
 schema_version = 1
 authors = ["Koracan"]
-description = "VS Code Dark+"
+description = "An accurate, complete port of VS Code's Dark+ theme for Zed. Complete UI coverage and every syntax node Zed supports."
 repository = "https://github.com/Koracan/vscode-dark-plus"
